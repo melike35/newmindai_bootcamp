@@ -1,1 +1,1 @@
-# newminai_bootcamp
+# newmindai_bootcamp
