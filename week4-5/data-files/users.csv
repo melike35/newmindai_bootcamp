@@ -1,0 +1,21 @@
+user_id,name,birth_year,gender,phone,address,risk_profile
+u001,Melike,1997,female,+90-555-123-0001,"İstanbul, Beşiktaş",medium
+u002,Ali,1990,male,+90-555-123-0002,"Ankara, Çankaya",high
+u003,Elif,1995,female,+90-555-123-0003,"İzmir, Karşıyaka",low
+u004,Ahmet,1988,male,+90-555-123-0004,"Bursa, Osmangazi",medium
+u005,Zeynep,1993,female,+90-555-123-0005,"Antalya, Muratpaşa",high
+u006,Mert,1985,male,+90-555-123-0006,"Kocaeli, İzmit",low
+u007,Ayşe,1992,female,+90-555-123-0007,"Trabzon, Ortahisar",medium
+u008,Can,1991,male,+90-555-123-0008,"Kayseri, Melikgazi",medium
+u009,Derya,1994,female,+90-555-123-0009,"Eskişehir, Tepebaşı",high
+u010,Emre,1989,male,+90-555-123-0010,"Konya, Selçuklu",low
+u011,Fatma,1996,female,+90-555-123-0011,"Gaziantep, Şahinbey",medium
+u012,Hasan,1987,male,+90-555-123-0012,"Samsun, Atakum",high
+u013,Selin,1998,female,+90-555-123-0013,"Mersin, Yenişehir",low
+u014,Burak,1991,male,+90-555-123-0014,"Adana, Seyhan",medium
+u015,İrem,1995,female,+90-555-123-0015,"Manisa, Yunusemre",high
+u016,Tuncay,1986,male,+90-555-123-0016,"Malatya, Yeşilyurt",low
+u017,Eda,1990,female,+90-555-123-0017,"Balıkesir, Karesi",medium
+u018,Kemal,1984,male,+90-555-123-0018,"Diyarbakır, Bağlar",high
+u019,Buse,1993,female,+90-555-123-0019,"Denizli, Pamukkale",low
+u020,Onur,1989,male,+90-555-123-0020,"Sakarya, Serdivan",medium
