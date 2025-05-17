@@ -1,0 +1,11 @@
+transaction_id,to_id
+txn001,cash001
+txn002,cash002
+txn003,cash003
+txn004,cash004
+txn005,cash005
+txn006,inv001
+txn007,inv002
+txn008,inv003
+txn009,inv004
+txn010,inv005

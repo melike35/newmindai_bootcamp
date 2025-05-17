@@ -1,0 +1,11 @@
+transaction_id,amount,currency,type,status,timestamp
+txn001,16474,TRY,transfer,success,2022-07-20T00:00:00
+txn002,10470,TRY,deposit,pending,2022-07-26T00:00:00
+txn003,2760,TRY,withdrawal,pending,2023-04-20T00:00:00
+txn004,16606,TRY,internal_transfer,failed,2022-08-31T00:00:00
+txn005,6506,TRY,internal_transfer,failed,2024-07-22T00:00:00
+txn006,17592,TRY,internal_transfer,success,2024-02-20T00:00:00
+txn007,4033,TRY,withdrawal,pending,2022-01-15T00:00:00
+txn008,1089,TRY,internal_transfer,failed,2024-05-21T00:00:00
+txn009,10204,TRY,withdrawal,pending,2022-08-05T00:00:00
+txn010,4677,TRY,deposit,pending,2025-11-09T00:00:00

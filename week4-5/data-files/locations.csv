@@ -1,0 +1,6 @@
+location_id,city,country,latitude,longitude
+loc001,Istanbul,TR,41.01,28.97
+loc002,Ankara,TR,39.92,32.85
+loc003,Izmir,TR,38.42,27.13
+loc004,Bursa,TR,40.18,29.06
+loc005,Antalya,TR,36.89,30.71

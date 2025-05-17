@@ -1,0 +1,11 @@
+context_id,ip,device_id,user_agent,location_text,timestamp
+ctx001,192.168.1.1,device1,Browser/1,"Istanbul, TR",2023-07-03T00:00:00
+ctx002,192.168.1.2,device2,Browser/2,"Istanbul, TR",2023-10-26T00:00:00
+ctx003,192.168.1.3,device3,Browser/3,"Istanbul, TR",2025-10-13T00:00:00
+ctx004,192.168.1.4,device4,Browser/4,"Istanbul, TR",2025-10-24T00:00:00
+ctx005,192.168.1.5,device5,Browser/5,"Rotterdam, NL",2024-10-21T00:00:00
+ctx006,192.168.1.6,device6,Browser/6,"Istanbul, TR",2023-12-19T00:00:00
+ctx007,192.168.1.7,device7,Browser/7,"Istanbul, TR",2022-11-13T00:00:00
+ctx008,192.168.1.8,device8,Browser/8,"Istanbul, TR",2022-06-27T00:00:00
+ctx009,192.168.1.9,device9,Browser/9,"Istanbul, TR",2023-03-10T00:00:00
+ctx010,192.168.1.10,device10,Browser/10,"Istanbul, TR",2025-06-28T00:00:00
